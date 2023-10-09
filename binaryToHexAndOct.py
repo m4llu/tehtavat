@@ -50,4 +50,3 @@ for binary in binaries:
     print(' ')
 
 
-#THIS DOESN'T WORK ANYMORE :D
