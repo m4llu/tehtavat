@@ -48,3 +48,6 @@ for binary in binaries:
     print('hex =')
     print(hexa)
     print(' ')
+
+
+#THIS DOESN'T WORK ANYMORE :D
